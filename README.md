@@ -1,5 +1,6 @@
-# Flight Survey
+# Flutter animation challenge 2 - flight survey
 
+## Creator Qani Ajdini
 Flutter implementation of Minh Pham's [Airlines Survey design](https://dribbble.com/shots/5362972-Airlines-Survey).
 
 ## Design
